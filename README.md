@@ -2,6 +2,8 @@
 
 『一日で学ぶクラウドネイティブ技術実践ハンズオン』（[cnd-handson](https://github.com/cloudnativedaysjp/cnd-handson)）で使うデモアプリです。CloudNative Days 実行委員会が開発しています。
 
+Hello, CI/CD world!
+
 ## どんなアプリか
 
 マイクロサービスで作ったタスク管理（カンバン）です。フロントエンドには 2 つの版があります。ハンズオンの canary やトラフィック分割の実演で、どちらに届いたかを見分けられます。
